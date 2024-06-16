@@ -1,0 +1,17 @@
+2024-06-16 16:54:57 MainThread:140339755479744 [user] INFO [/home/rocky/code/sm/interface/user_interface.py:56] 用户：chong 登录成功
+2024-06-16 16:56:02 MainThread:140339755479744 [shopping] INFO [/home/rocky/code/sm/interface/shop_interface.py:36] 用户：chong 购物车添加成功
+2024-06-16 16:56:06 MainThread:140339755479744 [shopping] INFO [/home/rocky/code/sm/interface/shop_interface.py:58] 用户：chong 查看了购物车
+2024-06-16 16:56:08 MainThread:140339755479744 [shopping] INFO [/home/rocky/code/sm/interface/shop_interface.py:68] 用户：chong 购物车更新成功！
+2024-06-16 16:56:13 MainThread:140339755479744 [shopping] INFO [/home/rocky/code/sm/interface/shop_interface.py:58] 用户：chong 查看了购物车
+2024-06-16 16:56:26 MainThread:140633340969664 [user] INFO [/home/rocky/code/sm/interface/user_interface.py:56] 用户：chong 登录成功
+2024-06-16 16:56:27 MainThread:140633340969664 [shopping] INFO [/home/rocky/code/sm/interface/shop_interface.py:58] 用户：chong 查看了购物车
+2024-06-16 16:56:29 MainThread:140633340969664 [shopping] INFO [/home/rocky/code/sm/interface/shop_interface.py:68] 用户：chong 购物车更新成功！
+2024-06-16 16:56:31 MainThread:140633340969664 [shopping] INFO [/home/rocky/code/sm/interface/shop_interface.py:58] 用户：chong 查看了购物车
+2024-06-16 16:56:35 MainThread:140633340969664 [shopping] INFO [/home/rocky/code/sm/interface/shop_interface.py:68] 用户：chong 购物车更新成功！
+2024-06-16 16:56:38 MainThread:140633340969664 [shopping] INFO [/home/rocky/code/sm/interface/shop_interface.py:58] 用户：chong 查看了购物车
+2024-06-16 16:59:43 MainThread:140493532332736 [严重错误] CRITICAL [/home/rocky/code/sm/conf/settings.py:85] 配置文件丢失！
+2024-06-16 17:01:34 MainThread:140334002889408 [user] INFO [/home/rocky/code/sm/interface/user_interface.py:56] 用户：chong 登录成功
+2024-06-16 17:01:35 MainThread:140334002889408 [shopping] INFO [/home/rocky/code/sm/interface/shop_interface.py:58] 用户：chong 查看了购物车
+2024-06-16 17:01:36 MainThread:140334002889408 [shopping] INFO [/home/rocky/code/sm/interface/shop_interface.py:68] 用户：chong 购物车更新成功！
+2024-06-16 17:01:38 MainThread:140334002889408 [shopping] INFO [/home/rocky/code/sm/interface/shop_interface.py:58] 用户：chong 查看了购物车
+2024-06-16 17:34:00 MainThread:139731156177344 [user] INFO [interface/user_interface.py:56] 用户：chong 登录成功

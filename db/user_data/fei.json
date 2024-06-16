@@ -1,0 +1,1 @@
+{"username": "fei", "password": "9babf646959cfacf69c4d8b74419268cd05ce394a1701408a08944b554af117c", "balance": 600, "shoppingg_cart": {"生蚝": {"number": "F000004", "name": "生蚝", "price": 18.0, "数量": 2}}, "flow": ["\n2024-05-14 17:17:04.959652 用户：chong 给用户：fei 转账：500元 成功\n当前余额为：740.0元"], "is_admin": false, "locked": false}
